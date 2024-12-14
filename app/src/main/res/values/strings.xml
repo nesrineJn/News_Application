@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News_Application</string>
+    <string name="save_icon">save_icon</string>
+    <string name="news_image" />
+</resources>
